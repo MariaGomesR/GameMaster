@@ -23,6 +23,7 @@ O Projeto Game Master do curso Desenvolvimento de Sistemas (1° Semestre) foi um
 
 ---
 
+#### Participações
 > [Beatriz Marques](https://github.com/biaamarquess)  
 > [Catarine Aparecida Almeida Tomaz](https://github.com/tomazzcatarine)  
 > [Gabrielly Ribeiro](https://github.com/GabySena)  

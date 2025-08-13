@@ -11,7 +11,7 @@ O Projeto Game Master do curso Desenvolvimento de Sistemas (1° Semestre) foi um
 
 ---
 
-#### Confira abaixo algumas imagens do WebKitty 👇
+#### Demonstração👇
 ![print inicio](/static/printss/tela.png)
 ![print jogos](/static/printss/jogos.png)
 ![print plataformas](/static/printss/plataformas.png)
